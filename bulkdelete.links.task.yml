@@ -4,4 +4,3 @@ bulkdelete.admin:
   title: Bulk delete nodes
   base_route: system.admin_content
   weight: 11
-  
